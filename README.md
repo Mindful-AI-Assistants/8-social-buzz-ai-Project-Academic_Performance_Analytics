@@ -12,6 +12,32 @@
 [**Institution:**]() PUC-SP  
 **Professor:**  [✨ Rooney Ribeiro Albuquerque Coelho](https://www.linkedin.com/in/rooney-coelho-320857182/)
 
+<!--Confidentiality Statement-->
+
+
+<br><br>
+
+
+> [!IMPORTANT]
+>
+> ⚠️ Heads Up 
+>
+> * Projects and deliverables may be made [publicly available]() whenever possible.
+>
+> * The course prioritizes [**hands-on practice**]() with real data in consulting scenarios.
+>
+> *  All activities comply with the [**academic and ethical guidelines of PUC-SP**]().
+>
+> * [**Confidential information**]() from this repository remains private in [private repositories]().
+>
+>
+
+#  
+
+<br><br><br>
+
+<!--End-->
+
 
 
 <br><br>
@@ -45,31 +71,7 @@
 
 
 
-<!--Confidentiality Statement-->
 
-
-<br><br>
-
-
-> [!IMPORTANT]
->
-> ⚠️ Heads Up 
->
-> * Projects and deliverables may be made [publicly available]() whenever possible.
->
-> * The course prioritizes [**hands-on practice**]() with real data in consulting scenarios.
->
-> *  All activities comply with the [**academic and ethical guidelines of PUC-SP**]().
->
-> * [**Confidential information**]() from this repository remains private in [private repositories]().
->
->
-
-#  
-
-<br><br><br>
-
-<!--End-->
 
 
 
