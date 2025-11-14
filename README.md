@@ -97,8 +97,20 @@ It was developed as part of the Social Media Marketing course at PUC-SP, applyin
 [Hashtags](https://chatgpt.com/c/69175384-c9a4-8333-831d-4a352b85f018#hashtags)
 
 
+<br><br>
+
+Overview
 
 
+This repository contains a structured analysis of student academic performance.
+Despite being part of a Social Media Marketing course, the project uses the dataset to practice:
+data cleaning and preparation
+exploratory analysis and visualization
+feature engineering
+predictive modeling using Random Forest
+explainability (SHAP values)
+structured storytelling and insight communication
+The result is a complete educational analytics case study.
 
 
 
