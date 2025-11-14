@@ -7,7 +7,7 @@
 
 <br>
 
-# <p align="center"> 8- [Social Buzz AI]() - Extension Project
+# <p align="center"> 8- [Social Buzz AI - Extension Project]() - Academic Performance Analytics
 
 
 
